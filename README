@@ -1,0 +1,5 @@
+A small OAuth enabled Twitter App in PHP written to demonstrate
+Zend_Oauth_Consumer, part of the PHP Zend Framework's OAuth support.
+
+This example is documentated at:
+http://blog.astrumfutura.com/archives/411-Writing-A-Simple-Twitter-Client-Using-the-PHP-Zend-Frameworks-OAuth-Library-Zend_Oauth.html
